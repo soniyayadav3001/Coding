@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main()
-{
+{ 
     string name;
     string acc_typ;
     double total_b = 1000;
